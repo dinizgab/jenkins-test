@@ -2,4 +2,4 @@ def main(a, b):
     print(a + b)
     print("Hello world!")
 
-main()
+main(4, 5)
